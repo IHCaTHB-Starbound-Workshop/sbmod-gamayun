@@ -1,0 +1,35 @@
+[
+	{ "op" : "add"
+	,"path" : "/speciesShips/beldehor"
+	,"value" : [ "/ships/beldehor/humanT0.structure", "/ships/beldehor/humanT1.structure", "/ships/beldehor/humanT2.structure", "/ships/beldehor/humanT3.structure", "/ships/beldehor/humanT4.structure", "/ships/beldehor/humanT5.structure", "/ships/beldehor/humanT6.structure", "/ships/beldehor/humanT7.structure", "/ships/beldehor/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/barometta"
+	,"value" : [ "/ships/barometta/humanT0.structure", "/ships/barometta/humanT1.structure", "/ships/barometta/humanT2.structure", "/ships/barometta/humanT3.structure", "/ships/barometta/humanT4.structure", "/ships/barometta/humanT5.structure", "/ships/barometta/humanT6.structure", "/ships/barometta/humanT7.structure", "/ships/barometta/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/ichthysian"
+	,"value" : [ "/ships/ichthysian/hylotlT0.structure", "/ships/ichthysian/hylotlT1.structure", "/ships/ichthysian/hylotlT2.structure", "/ships/ichthysian/hylotlT3.structure", "/ships/ichthysian/hylotlT4.structure", "/ships/ichthysian/hylotlT5.structure", "/ships/ichthysian/hylotlT6.structure", "/ships/ichthysian/hylotlT7.structure", "/ships/ichthysian/hylotlT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/golgian"
+	,"value" : [ "/ships/golgian/humanT0.structure", "/ships/golgian/humanT1.structure", "/ships/golgian/humanT2.structure", "/ships/golgian/humanT3.structure", "/ships/golgian/humanT4.structure", "/ships/golgian/humanT5.structure", "/ships/golgian/humanT6.structure", "/ships/golgian/humanT7.structure", "/ships/golgian/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/snosti"
+	,"value" : [ "/ships/snosti/humanT0.structure", "/ships/snosti/humanT1.structure", "/ships/snosti/humanT2.structure", "/ships/snosti/humanT3.structure", "/ships/snosti/humanT4.structure", "/ships/snosti/humanT5.structure", "/ships/snosti/humanT6.structure", "/ships/snosti/humanT7.structure", "/ships/snosti/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/carodont"
+	,"value" : [ "/ships/carodont/humanT0.structure", "/ships/carodont/humanT1.structure", "/ships/carodont/humanT2.structure", "/ships/carodont/humanT3.structure", "/ships/carodont/humanT4.structure", "/ships/carodont/humanT5.structure", "/ships/carodont/humanT6.structure", "/ships/carodont/humanT7.structure", "/ships/carodont/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/gamayun"
+	,"value" : [ "/ships/gamayun/humanT0.structure", "/ships/gamayun/humanT1.structure", "/ships/gamayun/humanT2.structure", "/ships/gamayun/humanT3.structure", "/ships/gamayun/humanT4.structure", "/ships/gamayun/humanT5.structure", "/ships/gamayun/humanT6.structure", "/ships/gamayun/humanT7.structure", "/ships/gamayun/humanT8.structure" ]
+	},
+	{ "op" : "add"
+	,"path" : "/speciesShips/lunarian"
+	,"value" : [ "/ships/lunarian/humanT0.structure", "/ships/lunarian/humanT1.structure", "/ships/lunarian/humanT2.structure", "/ships/lunarian/humanT3.structure", "/ships/lunarian/humanT4.structure", "/ships/lunarian/humanT5.structure", "/ships/lunarian/humanT6.structure", "/ships/lunarian/humanT7.structure", "/ships/lunarian/humanT8.structure" ]
+	}
+
+]

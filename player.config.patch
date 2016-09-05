@@ -1,0 +1,56 @@
+[
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "beldehor" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "barometta" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "ichthysian" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "golgian" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "snosti" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "carodont" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "gamayun" },
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "lunarian" },
+	{ "op" : "add"
+	,"path" : "/defaultBlueprints/tier1/-"
+	,"value" : ["tailoringtable"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/beldehor"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/barometta"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/ichthysian"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/golgian"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/snosti"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/carodont"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/gamayun"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op" : "add"
+	,"path" : "/defaultCodexes/lunarian"
+	,"value" : ["protectorate1", "protectorate2"] },
+	{ "op": "add",
+	"path" : "/statusControllerSettings/primaryScriptSources/-" ,
+	"value" : "/scripts/sbgraceEffects.lua" }
+]

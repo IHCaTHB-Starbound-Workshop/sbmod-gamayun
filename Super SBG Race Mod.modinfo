@@ -1,0 +1,11 @@
+{
+	"name" : "Super SBG Race Mod",
+	"path" : ".",
+	"requires" : [],
+	"includes" : [],
+	"metadata" : {
+		"author" : "Wall of Knowledge, carriontrooper, various /sbg/ anons",
+		"description" : "",
+		"version" : "0.1.0"
+	}
+}

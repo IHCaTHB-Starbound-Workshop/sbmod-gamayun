@@ -1,0 +1,354 @@
+[
+	{ "op" : "add",
+	"path" : "/greeting/barometta",
+	"value" : { "default" : [
+		"Hi there!",
+		"Hey there, cutie.",
+		"Sal-u-tations!",
+		"What's up?",
+		"Howdy!"
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/beldehor",
+	"value" : { "default" : [
+		"Good day.",
+		"Greetings.",
+		"How do you do?",
+		"Ave Imperium.",
+		"Well met, stranger."
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/carodont",
+	"value" : { "default" : [
+		"*unintelligble fish noises*"
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/gamayun",
+	"value" : { "default" : [
+		"Namaste.",
+		"Peace be upon you.",
+		"Are you well?",
+		"It is a pleasure to meet you.",
+		"Welcome, traveler."
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/golgian",
+	"value" : { "default" : [
+		"Hail, good fellow!",
+		"Salutations, friend!",
+		"Fine day, isn't it?",
+		"Well met!",
+		"Greetings!"
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/ichthysian",
+	"value" : { "default" : [
+		"Mmm.",
+		"What do you want?",
+		"Hello.",
+		"Blessings, stranger.",
+		"Need something?"
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/lunarian",
+	"value" : { "default" : [
+		"Hey there.",
+		"What's up?",
+		"Greetings.",
+		"How's it going?",
+		"'Hoy there."
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/greeting/snosti",
+	"value" : { "default" : [
+		"*unintelligble black hole noises?*"
+			]
+		}
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/barometta",
+	"value" : [
+		"How do you manage all of that wool?",
+		"Such soft wool... I could really use a hug.",
+		"Careful, Miss, the Miniknog frowns on... public indecency.",
+		"Do you need a physcial? I'm a doctor, honest.",
+		"Want to go out for a banana split sometime? I've been saving up."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/beldehor",
+	"value" : [
+		"That eye... You're not with the Miniknog, are you?",
+		"So, I hear your kind are escape artists...",
+		"You're a scout, aren't you? Sorry, we're already pretty well settled here.",
+		"Ahh, a friendly face... for a given value of \"face\".",
+		"I'd bet my bottom banana Big Ape could beat up your Emperor."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/carodont",
+	"value" : [
+		"Era-who-what?",
+		"My, what sharp teeth you have...",
+		"Is it true that there's always a bigger fish?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/gamayun",
+	"value" : [
+		"I'd lay low if I were you, friend.",
+		"You have psychic powers? What am I thinking?",
+		"How do you levitate? I'd be very interested in studying you...",
+		"Meditation lets you ignore hunger, right? Please, teach me.",
+		"How do you... you know... limbs?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/golgian",
+	"value" : [
+		"I'm very much comfortable with my perfectly ordinary life, thank you.",
+		"Please don't upset the Miniknog, the mess would take days to clean up.",
+		"You're a bold and fearless sort, aren't you? I know of a terrible monster you could slay...",
+		"*sigh* Times are tough.",
+		"You have a goddess of \"Life sucks, everybody leave me alone\"? Where do I sign up?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/ichthysian",
+	"value" : [
+		"Your scales are fascinating to me.",
+		"You worship the sun? How quaint.",
+		"Why do your men and women look so different?",
+		"I had a boat, once. It's gone now.",
+		"I saw a fish man just the other day, but he looked nothing like you."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/lunarian",
+	"value" : [
+		"Don't tell anyone, but I always liked carrots more than bananas.",
+		"Are those... real?",
+		"My condolences. What happened to Earth was terrible.",
+		"Seeing a rabbit is lucky, isn't it? I could use some luck.",
+		"Our masters are like yours were, but the cake is a lie."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/apex/snosti",
+	"value" : [
+		"I was a gambling man, once. Now look at me.",
+		"Careful of the Miniknog, stranger.",
+		"I don't have any money. Leave me be."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/barometta",
+	"value" : [
+		"You're so fluffy!",
+		"*whistle*",
+		"S-Sorry, I'm allergic to wool...",
+		"You have seeds? Wait, I didn't mean it like that!",
+		"You might not have heard, but Avians are the best for cuddling."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/beldehor",
+	"value" : [
+		"So, you can change your shape?",
+		"I wonder, do you bounce?",
+		"Ah, please don't stare at me like that...",
+		"Tell me more about your fashion! I've always fancied something a little more... risque.",
+		"We're not really keen on authority around here."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/carodont",
+	"value" : [
+		"Just so you know, I don't taste like chicken.",
+		"An island in space? Does space work that way?",
+		"Earu-te-hu? Is that something you eat?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/gamayun",
+	"value" : [
+		"You're religious, but you don't worship a god? ...Huh.",
+		"If you can float, surely you can fly, right?",
+		"You're a martial artist without arms or legs? ...I don't get it.",
+		"Woah! Teach me how to do that!",
+		"Don't you get cold like that?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/golgian",
+	"value" : [
+		"Gosh, I can't imagine being wedged between two clergies. One was bad enough!",
+		"I'd love to go on an adventure!",
+		"I'm actually a pretty decent warrior myself, you know.",
+		"Sorry, after what I had to go through with the Stargazers, I'm not keen on converting.",
+		"You don't dissolve in water, do you?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/ichthysian",
+	"value" : [
+		"You left your faith too, huh? I can sympathize.",
+		"We should spar sometime.",
+		"You're so smooth...",
+		"Swimming really is great, isn't it?",
+		"I'll trade you a feather for a scale."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/avian/lunarian",
+	"value" : [
+		"I don't understand, what's so special about living on a moon?",
+		"Say, what's a minuteman, anyway? Do you only fight for a minute at a time?",
+		"Sorry, I mistook you as a human for a moment!",
+		"What was it like, knowing your creators?",
+		"Sesame seeds go great on just about anything, huh?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/barometta",
+	"value" : [
+		"You look tassssty.",
+		"Floran likesss fluffy-fluffy!",
+		"Floran not ssstab fluffiesss.",
+		"Fluffy sssmellss gooood.",
+		"Can Floran touch?"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/beldehor",
+	"value" : [
+		"Sssstrange sssticky perssson.",
+		"Big eye good for big hunt, yesss?",
+		"No worriesss, Floran not like sssticky foodssss.",
+		"Floran not like sssstinky much.",
+		"Floran wish Floran could grow extra teeth and clawss."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/carodont",
+	"value" : [
+		"Sssshark man like ssstabbing too?",
+		"Floran bet Floran's teeth are sharper.",
+		"Floran likesss this fish man better!",
+		"Ssharksss make for good hunting."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/gamayun",
+	"value" : [
+		"Floran never ssseen floating person before. Floran not ssure how to feel about thisss.",
+		"Did Floran eat your limbsss?",
+		"Floran does not like sscary eyesss.",
+		"No armsss. Doess floaty hunt with teeth?",
+		"Floran once try to use head to hunt. Not very sssharp, spearsss much better for ssstabbing."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/golgian",
+	"value" : [
+		"Does jelly man tassste like fruitss?",
+		"Floran heard jelly man likesss to hunt. Floran thinkss jelly man and Floran could be good friendsss!",
+		"Jelly god givess Floran prizesss for hunting? Jelly man hass Floran's interessst.",
+		"Bright and loud and sssquishy! Floran approvesss.",
+		"Floran wants sssilly clothes!"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/ichthysian",
+	"value" : [
+		"Pretty ssscales!",
+		"Why fish girlss ssquisshier?",
+		"Fisssh likes spearss? Floran likesss sspears too!",
+		"Floran wonderss which fish peoplesss is tastiesst.",
+		"Fissh god has ten armsss? Floran could hunt ssso many things with ten armsss!"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/lunarian",
+	"value" : [
+		"Cakess are good, meatsss are better.",
+		"Human hass funny earssss. Wait, not human?",
+		"Hunting with gunss is no fun, ssstabbing much better.",
+		"Floran once hear human moon made of cheesse.",
+		"Bunny man makesss floran want to hunt."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/floran/snosti",
+	"value" : [
+		"You ssssuck! Haha! Floran will be here all day!",
+		"What is a debtsss? Can Floran eat it?",
+		"Ssspooky person has no face.",
+		"Floran does not have pixelsss for spooky man, only ssstabs."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/glitch/barometta",
+	"value" : [
+		"Concerned. Are you shaking?",
+		"Thoughtful. If I wore flowers, could you see me better?",
+		"Bashful. Actually, I think you're kind of scary too...",
+		"Pondering. The beautiful maiden finds her savior to be yet more terrifying than her captor... I should write a play.",
+		"Brash. You have nothing to fear here, good lady! I'll protect you from ne'er-do-wells!",
+		"Crass. Come on, take it off!",
+		"Wistful. I wish I had a cannon."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/glitch/beldehor",
+	"value" : [
+		"Curious. That one big eye is the one feature you can't change, isn't it?",
+		"Ambitious. Is it true that your Imperium is always looking to hire mercenaries?",
+		"Jealous. To be able to reconfigure your hardware so easily...",
+		"Flippant. Living under a king is enough for me, thanks.",
+		"Contemplative. How do you found a noble family? I want some striking heraldry of my own..."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/glitch/carodont",
+	"value" : [
+		"Bold. I've seen scarier than you!",
+		"Morose. Don't bother eating our livestock, they're really not as good as you'd think.",
+		"Astonished. My, what large teeth you have!"
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/glitch/gamayun",
+	"value" : [
+		"Flabbergasted. What the? How do you even-- ERROR",
+		"Nervous. Why are you glowing? You're not going to explode, are you?",
+		"Concerned. Are you sure you're not in need of repairs?",
+		"Awestruck. I've never seen a magician like you!",
+		"Shy. I think you're kinda cute, actually."
+		]
+	},
+	{ "op" : "add",
+	"path" : "/converse/glitch/golgian",
+	"value" : [
+		"Irate. I don't have time for adventurers.",
+		"Disdainful. Please try to not get any of you on me.",
+		"Hopeful. Are you looking for a squire?",
+		"Bemused. So, what level are you?",
+		"Sarcastic. Are you jelly?"
+		]
+	}
+]

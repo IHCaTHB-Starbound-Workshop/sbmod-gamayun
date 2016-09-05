@@ -1,26 +1,5 @@
 [
 	{ "op" : "add"
 	,"path" : "/speciesOrdering/-"
-	,"value" : "beldehor" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "barometta" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "ichthysian" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "gamayun" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "golgian" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "snosti" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "carodont" },
-	{ "op" : "add"
-	,"path" : "/speciesOrdering/-"
-	,"value" : "lunarian" }
+	,"value" : "barometta" }
 ]

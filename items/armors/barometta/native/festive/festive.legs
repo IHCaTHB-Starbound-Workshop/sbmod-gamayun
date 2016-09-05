@@ -1,34 +1,20 @@
 {
-  "itemName" : "festivechest",
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "festivelegs",
+  "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A typical Avian adventurer shirt.",
-  "shortdescription" : "Avian Adventurer Shirt",
+  "description" : "Typical Avian adventurer pants.",
+  "shortdescription" : "Avian Adventurer Pants",
   "tooltipKind" : "armor",
 
-  "maleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "femaleFrames" : {
-    "body" : "chestf.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
 
   "statusEffects" : [
     {
       "stat" : "protection",
       "amount" : 0
-    },
-
-    {
-      "stat" : "maxHealth",
-      "amount" : 5
     }
   ],
 
@@ -68,5 +54,6 @@
     { "ffca8a" : "717171", "e0975c" : "505050", "a85636" : "363636", "6f2919" : "181818" },
     { "ffca8a" : "e6e9ea", "e0975c" : "c6d2d4", "a85636" : "97abac", "6f2919" : "627677" }
 */
+
   ]
 }

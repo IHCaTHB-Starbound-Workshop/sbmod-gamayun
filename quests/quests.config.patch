@@ -1,0 +1,10 @@
+[{ "op" : "add"
+	,"path" : "/initialquests/barometta"
+	,"value" : [ "protectorate" ] },
+	{"op": "add",
+	"path": "/pronounGenders/barometta",
+	"value": {
+		"male": "female",
+		"female": "female"
+		}
+	}]

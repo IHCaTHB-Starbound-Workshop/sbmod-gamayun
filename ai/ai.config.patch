@@ -1,0 +1,66 @@
+[
+	{ "op" : "add",
+		"path" : "/species/barometta",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+			}
+	},
+	{ "op" : "add",
+		"path" : "/species/ichthysian",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		}
+	},
+	{ "op" : "add",
+		"path" : "/species/golgian",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		} 
+	},
+	{ "op" : "add",
+		"path" : "/species/snosti",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		} 
+	},
+	{ "op" : "add",
+		"path" : "/species/carodont",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		}
+	},
+	{ "op" : "add",
+		"path" : "/species/gamayun",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		}
+	},
+	{ "op" : "add",
+		"path" : "/species/beldehor",
+		"value" : {
+			"aiFrames" : "beldai.png",
+			"portraitFrames" : "portraits/beldportrait.png",
+			"staticFrames" : "statichylotl.png"
+		} 
+	},
+	{ "op" : "add",
+		"path" : "/species/lunarian",
+		"value" : {
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		} 
+	}
+]

@@ -1,10 +1,10 @@
 [
 	{ "op" : "add",
-		"path" : "/species/barometta",
+		"path" : "/species/beldehor",
 		"value" : {
-			"aiFrames" : "humanAi.png",
-			"portraitFrames" : "portraits/humanportrait.png",
-			"staticFrames" : "staticHuman.png"
-			}
+			"aiFrames" : "beldai.png",
+			"portraitFrames" : "portraits/beldportrait.png",
+			"staticFrames" : "statichylotl.png"
+		} 
 	}
 ]

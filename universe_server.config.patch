@@ -1,6 +1,6 @@
 [
 	{ "op" : "add"
-	,"path" : "/speciesShips/barometta"
-	,"value" : [ "/ships/barometta/humanT0.structure", "/ships/barometta/humanT1.structure", "/ships/barometta/humanT2.structure", "/ships/barometta/humanT3.structure", "/ships/barometta/humanT4.structure", "/ships/barometta/humanT5.structure", "/ships/barometta/humanT6.structure", "/ships/barometta/humanT7.structure", "/ships/barometta/humanT8.structure" ]
+	,"path" : "/speciesShips/gamayun"
+	,"value" : [ "/ships/gamayun/humanT0.structure", "/ships/gamayun/humanT1.structure", "/ships/gamayun/humanT2.structure", "/ships/gamayun/humanT3.structure", "/ships/gamayun/humanT4.structure", "/ships/gamayun/humanT5.structure", "/ships/gamayun/humanT6.structure", "/ships/gamayun/humanT7.structure", "/ships/gamayun/humanT8.structure" ]
 	}
 ]

@@ -10,7 +10,7 @@
   "nameGen" : [ "/species/gamayunnamegen.config:names", "/species/gamayunnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ], [ "/sfx/humanoid/humangrunt1.ogg", "/sfx/humanoid/humangrunt2.ogg" ] ],
-  "charGenTextLabels" : [ "Skin Colour", "Hair Style", "", "", "PK Field", "Hair Colour", "", "", "GAMAYUN", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "", "", "PK field", "Hair colour", "", "", "GAMAYUN", "Personality" ],
   "statusEffects" : [ "gamayunlevitation" ],
   "skull" : "/humanoid/human/dead.png",
   "defaultBlueprints" : {

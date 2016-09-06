@@ -1,14 +1,18 @@
 {
 "author" : "Wall of Knowledge, IHCaTHB, et al",
-"description" : "[h1]blind space sheep[/h1]
-
-none of these assets were made by me, im just helping out the lead colaberator with organization and getting them up on the workshop
+"description" : "[h1]they float in space[/h1]
 
 contains:
 1 race
-1 outfit
+no arms
+no legs
+fun colors
 1 placeholder ship (human)
 some custom dialog
+
+[url=http://community.playstarbound.com/resources/super-sbg-race-mod.2858/]From the SBG community mod to your doorstep![/url]
+None of these assets were made by me, im just helping out the lead collaborator with organization and getting them up on the workshop.
+If you experience a crash provide a crash log or we really can't do anything for you.
 
 LEAVE A COMMENT IF YOU
 like the mod
@@ -19,7 +23,7 @@ have a question about the mod
 have a problem with the mod
 and especially
 [u][b]if you have a request[/b][/u]",
-  "friendlyName" : "Barometta",
-  "name" : "BAR.IHC",
+  "friendlyName" : "Gamayun",
+  "name" : "GAM.IHC",
   "version" : "0.1"
 }

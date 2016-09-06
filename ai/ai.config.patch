@@ -1,10 +1,10 @@
 [
 	{ "op" : "add",
-		"path" : "/species/beldehor",
+		"path" : "/species/gamayun",
 		"value" : {
-			"aiFrames" : "beldai.png",
-			"portraitFrames" : "portraits/beldportrait.png",
-			"staticFrames" : "statichylotl.png"
-		} 
+			"aiFrames" : "humanAi.png",
+			"portraitFrames" : "portraits/humanportrait.png",
+			"staticFrames" : "staticHuman.png"
+		}
 	}
 ]

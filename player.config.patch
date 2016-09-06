@@ -1,8 +1,8 @@
 [
 	{ "op" : "add"
 	,"path" : "/species/-"
-	,"value" : "barometta" },
+	,"value" : "gamayun" },
 	{ "op" : "add"
-	,"path" : "/defaultCodexes/barometta"
+	,"path" : "/defaultCodexes/gamayun"
 	,"value" : ["protectorate1", "protectorate2"] }
 ]

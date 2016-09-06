@@ -1,55 +1,50 @@
 [
 	{ "op" : "add",
-	"path" : "/greeting/barometta",
+	"path" : "/greeting/gamayun",
 	"value" : { "default" : [
-		"Hi there!",
-		"Hey there, cutie.",
-		"Sal-u-tations!",
-		"What's up?",
-		"Howdy!"
+		"Namaste.",
+		"Peace be upon you.",
+		"Are you well?",
+		"It is a pleasure to meet you.",
+		"Welcome, traveler."
 			]
 		}
-	},
-	{ "op" : "add",
-	"path" : "/converse/apex/barometta",
+	},	{ "op" : "add",
+	"path" : "/converse/apex/gamayun",
 	"value" : [
-		"How do you manage all of that wool?",
-		"Such soft wool... I could really use a hug.",
-		"Careful, Miss, the Miniknog frowns on... public indecency.",
-		"Do you need a physcial? I'm a doctor, honest.",
-		"Want to go out for a banana split sometime? I've been saving up."
+		"I'd lay low if I were you, friend.",
+		"You have psychic powers? What am I thinking?",
+		"How do you levitate? I'd be very interested in studying you...",
+		"Meditation lets you ignore hunger, right? Please, teach me.",
+		"How do you... you know... limbs?"
 		]
 	},
 	{ "op" : "add",
-	"path" : "/converse/avian/barometta",
+	"path" : "/converse/avian/gamayun",
 	"value" : [
-		"You're so fluffy!",
-		"*whistle*",
-		"S-Sorry, I'm allergic to wool...",
-		"You have seeds? Wait, I didn't mean it like that!",
-		"You might not have heard, but Avians are the best for cuddling."
+		"You're religious, but you don't worship a god? ...Huh.",
+		"If you can float, surely you can fly, right?",
+		"You're a martial artist without arms or legs? ...I don't get it.",
+		"Woah! Teach me how to do that!",
+		"Don't you get cold like that?"
 		]
-	},
-	{ "op" : "add",
-	"path" : "/converse/floran/barometta",
+	},	{ "op" : "add",
+	"path" : "/converse/floran/gamayun",
 	"value" : [
-		"You look tassssty.",
-		"Floran likesss fluffy-fluffy!",
-		"Floran not ssstab fluffiesss.",
-		"Fluffy sssmellss gooood.",
-		"Can Floran touch?"
+		"Floran never ssseen floating person before. Floran not ssure how to feel about thisss.",
+		"Did Floran eat your limbsss?",
+		"Floran does not like sscary eyesss.",
+		"No armsss. Doess floaty hunt with teeth?",
+		"Floran once try to use head to hunt. Not very sssharp, spearsss much better for ssstabbing."
 		]
-	},
-	{ "op" : "add",
-	"path" : "/converse/glitch/barometta",
+	},	{ "op" : "add",
+	"path" : "/converse/glitch/gamayun",
 	"value" : [
-		"Concerned. Are you shaking?",
-		"Thoughtful. If I wore flowers, could you see me better?",
-		"Bashful. Actually, I think you're kind of scary too...",
-		"Pondering. The beautiful maiden finds her savior to be yet more terrifying than her captor... I should write a play.",
-		"Brash. You have nothing to fear here, good lady! I'll protect you from ne'er-do-wells!",
-		"Crass. Come on, take it off!",
-		"Wistful. I wish I had a cannon."
+		"Flabbergasted. What the? How do you even-- ERROR",
+		"Nervous. Why are you glowing? You're not going to explode, are you?",
+		"Concerned. Are you sure you're not in need of repairs?",
+		"Awestruck. I've never seen a magician like you!",
+		"Shy. I think you're kinda cute, actually."
 		]
 	}
 ]
